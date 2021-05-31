@@ -1,0 +1,19 @@
+.pleasure {
+    position: relative;
+    background: url('./foryourpleasure_bg.jpg') center center/cover no-repeat;
+    min-height: 260px;
+}
+
+.pleasure h1 {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 130px;
+}
+
+.page-wrapper {
+    /* margin: 0 auto; */
+    /* min-height: 1155px; */
+    padding-bottom: 30px;
+    padding-top: 70px;
+}

@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@400;700');
+
+body {
+    font-family: 'Merienda', sans-serif !important;
+    overflow-y:scroll;
+}
