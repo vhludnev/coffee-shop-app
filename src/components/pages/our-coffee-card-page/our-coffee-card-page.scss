@@ -13,10 +13,9 @@
 
 .card-wrapper {
     /* margin: 0 auto; */
-    /* min-height: 1248px; */
-    padding-bottom: 30px;
-    padding-top: 70px;
-    height: 455px;
+    margin-bottom: 30px;
+    margin-top: 70px;
+    height: 355px;
     text-align: center;
 
     .picture {
@@ -28,7 +27,7 @@
         height: 355px;
         
         img {
-            max-height: 355px;
+            height: 355px;
         }
     }
 
@@ -45,6 +44,7 @@
     
         img {
             margin-top: 21px;
+            min-height: 30px;
             text-align: center;
         }
     

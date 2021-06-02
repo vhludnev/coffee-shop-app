@@ -1,42 +1,38 @@
-@keyframes lds-double-ring {
-  0% {
-    -webkit-transform: rotate(0);
-    transform: rotate(0);
-  }
-  100% {
-    -webkit-transform: rotate(360deg);
-    transform: rotate(360deg);
-  }
+@mixin transform-rotate($degree) {
+  -webkit-transform: rotate($degree);
+  transform: rotate($degree);
 }
 
-@-webkit-keyframes lds-double-ring {
+@keyframes lds-double-ring {
   0% {
-    -webkit-transform: rotate(0);
-    transform: rotate(0);
+    @include transform-rotate(0)
   }
   100% {
-    -webkit-transform: rotate(360deg);
-    transform: rotate(360deg);
+    @include transform-rotate(360deg)
+  }
+}
+@-webkit-keyframes lds-double-ring {
+  0% {
+    @include transform-rotate(0)
+  }
+  100% {
+    @include transform-rotate(360deg)
   }
 }
 @keyframes lds-double-ring_reverse {
   0% {
-    -webkit-transform: rotate(0);
-    transform: rotate(0);
+    @include transform-rotate(0)
   }
   100% {
-    -webkit-transform: rotate(-360deg);
-    transform: rotate(-360deg);
+    @include transform-rotate(-360deg)
   }
 }
 @-webkit-keyframes lds-double-ring_reverse {
   0% {
-    -webkit-transform: rotate(0);
-    transform: rotate(0);
+    @include transform-rotate(0)
   }
   100% {
-    -webkit-transform: rotate(-360deg);
-    transform: rotate(-360deg);
+    @include transform-rotate(-360deg)
   }
 }
 
