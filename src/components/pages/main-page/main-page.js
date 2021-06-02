@@ -1,7 +1,7 @@
 import React from 'react';
 
 import images from '../../img';
-import './main-page.css';
+import './main-page.scss';
 
 const MainPage = () => {
   return (

@@ -1,7 +1,7 @@
 import React from 'react';
 
 import images from '../img';
-import './about-our.css';
+import './about-our.scss';
 
 const AboutOur = ({picture, title, text}) => {
 

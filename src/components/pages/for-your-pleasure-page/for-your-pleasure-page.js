@@ -4,7 +4,7 @@ import Cards from '../../cards/cards';
 import AboutOur from '../../about-our';
 
 import images from '../../img';
-import './for-your-pleasure-page.css';
+import './for-your-pleasure-page.scss';
 
 import DummyServer from '../../../services/dummy-server';
 

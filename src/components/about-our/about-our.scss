@@ -1,0 +1,30 @@
+.aboutour {
+    .info {
+        padding-top: 9px;
+        max-width: 346px;
+        height: 232px;
+        margin-left: -330px;
+        text-align: center;
+
+        h2 {
+            font-size: 24px;
+        }
+
+        img {
+            padding-top: 20px;
+        }
+    
+        p {
+            font-size: 14px;
+            padding-top: 26px;
+            white-space: pre-line;
+        }
+    }
+}
+
+.divider hr {
+    width: 240px;
+    margin-top: 57px;
+    margin-bottom: 0;
+    border: 1px solid rgba(0, 0, 0, 0.5)
+}

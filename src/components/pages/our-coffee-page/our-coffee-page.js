@@ -6,7 +6,7 @@ import Cards from '../../cards/cards';
 import AboutOur from '../../about-our';
 
 import images from '../../img';
-import './our-coffee-page.css';
+import './our-coffee-page.scss';
 
 import DummyServer from '../../../services/dummy-server';
 

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import './filter-search-panel.css';
+import './filter-search-panel.scss';
 
 export default class FilterSearchPanel extends Component {
 

@@ -5,7 +5,7 @@ import PageNotFound from '../../pages/404-page';
 import Spinner from '../../spinner';
 
 import images from '../../img';
-import './our-coffee-card-page.css';
+import './our-coffee-card-page.scss';
 
 import DummyServer from '../../../services/dummy-server';
 

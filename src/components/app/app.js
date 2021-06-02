@@ -11,7 +11,7 @@ import {
     ForYourPleasure,
     PageNotFound } from '../pages';
 
-import './app.css';
+import './app.scss';
 
 const App = () => {
 

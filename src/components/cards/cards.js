@@ -2,7 +2,7 @@ import React from 'react';
 
 import images from '../img';
 
-import './cards.css';
+import './cards.scss';
 
 const Cards = ({ styles, cards, onItemSelected }) => {
 
