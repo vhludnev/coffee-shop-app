@@ -8,7 +8,7 @@ const Nav = ()=> {
 	return (   
 		<div className="nav">
 		  	<img src={images.BeansWhite} alt="coffee beans" />
-			<Link className="nav-link" to="/coffee-shop">Coffee house</Link>
+			<Link className="nav-link" to="/coffee-shop-app">Coffee house</Link>
 			<Link className="nav-link" to="/ourcoffee">Our coffee</Link>
 			<Link className="nav-link" to="/pleasure">For your pleasure</Link>
 		</div>

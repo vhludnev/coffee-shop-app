@@ -8,4 +8,4 @@
 - Sass,
 - FadeIn
 
-[Check on Git Pages](https://vhludnev.github.io/coffee-shop)
+[Check on Git Pages](https://vhludnev.github.io/coffee-shop-app)
