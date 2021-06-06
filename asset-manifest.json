@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.500907c0.chunk.css",
+    "main.js": "/static/js/main.325327c8.chunk.js",
+    "main.js.map": "/static/js/main.325327c8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f0426781.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f0426781.js.map",
+    "static/js/2.997295e8.chunk.js": "/static/js/2.997295e8.chunk.js",
+    "static/js/2.997295e8.chunk.js.map": "/static/js/2.997295e8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.500907c0.chunk.css.map": "/static/css/main.500907c0.chunk.css.map",
+    "static/js/2.997295e8.chunk.js.LICENSE.txt": "/static/js/2.997295e8.chunk.js.LICENSE.txt",
+    "static/media/beans_logo_black.ad7e8512.svg": "/static/media/beans_logo_black.ad7e8512.svg",
+    "static/media/beans_logo_white.dab70608.svg": "/static/media/beans_logo_white.dab70608.svg",
+    "static/media/coffee-839233_1920.7437dfb7.jpg": "/static/media/coffee-839233_1920.7437dfb7.jpg",
+    "static/media/coffee1.7a80967b.png": "/static/media/coffee1.7a80967b.png",
+    "static/media/coffee2.91ecb92d.png": "/static/media/coffee2.91ecb92d.png",
+    "static/media/coffee3.efeebc8b.png": "/static/media/coffee3.efeebc8b.png",
+    "static/media/for-your-pleasure-page.scss": "/static/media/foryourpleasure_bg.6e15a8f5.jpg",
+    "static/media/girl-865304_1920.ce3c16f3.jpg": "/static/media/girl-865304_1920.ce3c16f3.jpg",
+    "static/media/main-page.scss": "/static/media/ourbest_bg.b403f235.jpg",
+    "static/media/our-coffee-card-page.scss": "/static/media/ourcoffee_bg.e2fe55d7.jpg",
+    "static/media/twobeans.d6b67511.svg": "/static/media/twobeans.d6b67511.svg",
+    "static/media/twobeans_white.fd1d28fc.svg": "/static/media/twobeans_white.fd1d28fc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0426781.js",
+    "static/js/2.997295e8.chunk.js",
+    "static/css/main.500907c0.chunk.css",
+    "static/js/main.325327c8.chunk.js"
+  ]
+}
