@@ -10,7 +10,7 @@ const Footer = () => {
 			<div className="footer-nav">
 				<div className="footer">
 					<img src={images.BeansBlack} alt="beans" />
-					<Link className="nav-link" to="/">Coffee house</Link>
+					<Link className="nav-link" to="/coffee-shop-app">Coffee house</Link>
 					<Link className="nav-link" to="/ourcoffee">Our coffee</Link>
 					<Link className="nav-link" to="/pleasure">For your pleasure</Link>
 				</div>

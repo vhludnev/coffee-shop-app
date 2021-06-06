@@ -20,7 +20,7 @@ const App = () => {
             <Nav />
             <ErrorBoundry>
                 <Switch>
-                    <Route exact path="/" component={MainPage} />
+                    <Route exact path="/coffee-shop-app" component={MainPage} />
                     <Route exact path="/ourcoffee" component={OurCoffee} />
                     <Route path="/ourcoffee/:id?" render={({ match }) => { 
                         return <OurCoffeeCard itemId={match.params.id}/> 
