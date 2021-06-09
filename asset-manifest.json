@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/coffee-shop-app/static/css/main.70eefa68.chunk.css",
-    "main.js": "/coffee-shop-app/static/js/main.d6a8339d.chunk.js",
-    "main.js.map": "/coffee-shop-app/static/js/main.d6a8339d.chunk.js.map",
+    "main.css": "/coffee-shop-app/static/css/main.4cfd4092.chunk.css",
+    "main.js": "/coffee-shop-app/static/js/main.59a2027b.chunk.js",
+    "main.js.map": "/coffee-shop-app/static/js/main.59a2027b.chunk.js.map",
     "runtime-main.js": "/coffee-shop-app/static/js/runtime-main.82c891f1.js",
     "runtime-main.js.map": "/coffee-shop-app/static/js/runtime-main.82c891f1.js.map",
     "static/js/2.84f8331f.chunk.js": "/coffee-shop-app/static/js/2.84f8331f.chunk.js",
     "static/js/2.84f8331f.chunk.js.map": "/coffee-shop-app/static/js/2.84f8331f.chunk.js.map",
     "index.html": "/coffee-shop-app/index.html",
-    "static/css/main.70eefa68.chunk.css.map": "/coffee-shop-app/static/css/main.70eefa68.chunk.css.map",
+    "static/css/main.4cfd4092.chunk.css.map": "/coffee-shop-app/static/css/main.4cfd4092.chunk.css.map",
     "static/js/2.84f8331f.chunk.js.LICENSE.txt": "/coffee-shop-app/static/js/2.84f8331f.chunk.js.LICENSE.txt",
-    "static/media/beans_logo_black.ad7e8512.svg": "/coffee-shop-app/static/media/beans_logo_black.ad7e8512.svg",
-    "static/media/beans_logo_white.dab70608.svg": "/coffee-shop-app/static/media/beans_logo_white.dab70608.svg",
+    "static/media/beans_logo_black.c06248f2.svg": "/coffee-shop-app/static/media/beans_logo_black.c06248f2.svg",
+    "static/media/beans_logo_white.35f2974a.svg": "/coffee-shop-app/static/media/beans_logo_white.35f2974a.svg",
     "static/media/coffee-839233_1920.7437dfb7.jpg": "/coffee-shop-app/static/media/coffee-839233_1920.7437dfb7.jpg",
     "static/media/coffee1.7a80967b.png": "/coffee-shop-app/static/media/coffee1.7a80967b.png",
     "static/media/coffee2.91ecb92d.png": "/coffee-shop-app/static/media/coffee2.91ecb92d.png",
@@ -20,13 +20,13 @@
     "static/media/girl-865304_1920.ce3c16f3.jpg": "/coffee-shop-app/static/media/girl-865304_1920.ce3c16f3.jpg",
     "static/media/main-page.scss": "/coffee-shop-app/static/media/ourbest_bg.b403f235.jpg",
     "static/media/our-coffee-card-page.scss": "/coffee-shop-app/static/media/ourcoffee_bg.e2fe55d7.jpg",
-    "static/media/twobeans.d6b67511.svg": "/coffee-shop-app/static/media/twobeans.d6b67511.svg",
-    "static/media/twobeans_white.fd1d28fc.svg": "/coffee-shop-app/static/media/twobeans_white.fd1d28fc.svg"
+    "static/media/twobeans.dbe9fd92.svg": "/coffee-shop-app/static/media/twobeans.dbe9fd92.svg",
+    "static/media/twobeans_white.67308bd5.svg": "/coffee-shop-app/static/media/twobeans_white.67308bd5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.82c891f1.js",
     "static/js/2.84f8331f.chunk.js",
-    "static/css/main.70eefa68.chunk.css",
-    "static/js/main.d6a8339d.chunk.js"
+    "static/css/main.4cfd4092.chunk.css",
+    "static/js/main.59a2027b.chunk.js"
   ]
 }
