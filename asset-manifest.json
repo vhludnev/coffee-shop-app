@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/coffee-shop-app/static/css/main.f51b0784.chunk.css",
-    "main.js": "/coffee-shop-app/static/js/main.cf6c62e3.chunk.js",
-    "main.js.map": "/coffee-shop-app/static/js/main.cf6c62e3.chunk.js.map",
+    "main.css": "/coffee-shop-app/static/css/main.70eefa68.chunk.css",
+    "main.js": "/coffee-shop-app/static/js/main.d6a8339d.chunk.js",
+    "main.js.map": "/coffee-shop-app/static/js/main.d6a8339d.chunk.js.map",
     "runtime-main.js": "/coffee-shop-app/static/js/runtime-main.82c891f1.js",
     "runtime-main.js.map": "/coffee-shop-app/static/js/runtime-main.82c891f1.js.map",
     "static/js/2.84f8331f.chunk.js": "/coffee-shop-app/static/js/2.84f8331f.chunk.js",
     "static/js/2.84f8331f.chunk.js.map": "/coffee-shop-app/static/js/2.84f8331f.chunk.js.map",
     "index.html": "/coffee-shop-app/index.html",
-    "static/css/main.f51b0784.chunk.css.map": "/coffee-shop-app/static/css/main.f51b0784.chunk.css.map",
+    "static/css/main.70eefa68.chunk.css.map": "/coffee-shop-app/static/css/main.70eefa68.chunk.css.map",
     "static/js/2.84f8331f.chunk.js.LICENSE.txt": "/coffee-shop-app/static/js/2.84f8331f.chunk.js.LICENSE.txt",
     "static/media/beans_logo_black.ad7e8512.svg": "/coffee-shop-app/static/media/beans_logo_black.ad7e8512.svg",
     "static/media/beans_logo_white.dab70608.svg": "/coffee-shop-app/static/media/beans_logo_white.dab70608.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.82c891f1.js",
     "static/js/2.84f8331f.chunk.js",
-    "static/css/main.f51b0784.chunk.css",
-    "static/js/main.cf6c62e3.chunk.js"
+    "static/css/main.70eefa68.chunk.css",
+    "static/js/main.d6a8339d.chunk.js"
   ]
 }
