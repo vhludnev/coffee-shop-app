@@ -42,8 +42,10 @@
 
 @media only screen and (max-width: 900px) {
     .coffeecards {
-        justify-content: center !important;
-        align-content: space-evenly;
+        margin-top: 25px;
+        min-height: 600px !important;
+        justify-content: space-evenly !important;
+        /* align-content: space-evenly; */
     
         .coffee-card {
             width: 30%;
@@ -70,7 +72,11 @@
 }
 
 @media only screen and (max-width: 450px) {
-    .coffeecards .coffee-card {
-        max-height: 210px;
+    .coffeecards {
+        min-height: 500px !important;
+
+        .coffee-card {
+            max-height: 210px;
+        }
     }
 }
