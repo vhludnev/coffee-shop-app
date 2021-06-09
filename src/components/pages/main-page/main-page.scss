@@ -113,3 +113,116 @@ $mainColor: #ffffff;
     }
   } 
 } 
+
+
+
+@media only screen and (max-width: 900px) {
+  .main {
+    height: auto;
+
+    .info-block {
+      padding-top: 141px;
+  
+      h1 {
+        color: $mainColor;
+        font-size: 28px;
+      }
+    
+      button {
+        font-size: 12px;
+      }
+  
+      img {
+        margin-top: 10px;
+      }
+  
+      p {
+        font-size: 18px;
+      } 
+    }
+  }
+
+  .about {
+    padding: 10px 10px;
+    min-height: 460px;
+    width: auto;
+    text-align: center;
+  
+    h2 {
+      font-size: 20px;
+      padding-top: 50px;
+    }
+    
+    img {
+      margin-top: 20px;
+      height: 30px;
+    }
+    
+    p {
+      font-size: 12px;
+      margin-top: 41px;
+    }
+  }
+
+  .ourbest {
+    height: auto;
+    padding-bottom: 50px;
+
+    h2 {
+      font-size: 20px;
+      padding-top: 60px;
+      
+    }
+    
+    .bestcards {
+      
+      width: 100%;
+      
+  
+      .coffee-card {
+        width: 100%;
+        min-height: 210px;
+        margin: 4px;
+        border-radius: 6px;
+  
+        .wrapper {
+  
+          p {
+            font-size: 12px;
+          }
+
+          img {
+            width: 80%;
+          }
+  
+          p:nth-child(2) {
+            margin-top: 10px;
+          }
+  
+          p:nth-child(3) {
+            font-weight: 700;
+            margin-top: 8px;
+            padding-right: 10px;
+            
+          }
+        }
+      }
+    } 
+  }
+}
+
+@media only screen and (max-width: 900px) and (min-width: 600px) {
+  .ourbest .bestcards .coffee-card .wrapper img {
+    width: 65%;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  .ourbest { 
+    .bestcards {
+      .coffee-card {
+        min-height: 190px;
+      }
+    }
+  }
+}

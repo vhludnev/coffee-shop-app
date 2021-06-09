@@ -36,3 +36,23 @@
     margin-bottom: 0;
     border: 1px solid rgba(0, 0, 0, 0.5)
 }
+
+@media only screen and (max-width: 900px) {
+    .aboutour {
+        height: auto;
+        flex-wrap: wrap;
+
+        .info {
+            padding-top: 30px;        
+            margin: 10px 10px;
+            
+            h2 {
+                font-size: 20px;
+            }
+        
+            p {
+                font-size: 12px;
+            }
+        }
+    } 
+}

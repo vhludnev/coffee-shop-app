@@ -70,7 +70,7 @@ export default class OurCoffeeCard extends Component {
         </div>
         <div className="card-wrapper">
           <div className="container">
-            <div className="d-flex justify-content-around">
+            <div className="d-flex justify-content-around aboutit">
               <div className="picture">
                 <img src={image} alt="coffee" style={loading ? {display: 'none'} : {}} onLoad={this.handleImageLoaded}/>
                 {spinner}

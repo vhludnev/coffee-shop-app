@@ -1,4 +1,4 @@
-## Coffee Shop React App (desktop-only version)
+## Coffee Shop React App
 
 - Function Components,
 - Router,
@@ -7,5 +7,6 @@
 - Spinner,
 - Sass,
 - FadeIn
+- Responsive display
 
 [Check on Git Pages](https://vhludnev.github.io/coffee-shop-app)

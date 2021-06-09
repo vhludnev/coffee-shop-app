@@ -48,3 +48,38 @@
         }
     }
 }
+
+@media only screen and (max-width: 900px) {
+    .filter-bar {
+        margin-top: 50px;
+    
+        .panel {
+            justify-content: center !important;
+            flex-wrap: wrap;
+            margin-bottom: 40px;
+
+            .btn-group {
+                p {
+                    font-size: 12px;
+                }
+            }
+    
+            .search {
+                input {
+                    font-size: 10px !important;
+                }
+    
+                ::placeholder {
+                    font-size: 10px;
+                }
+            }
+            
+            .filter {
+    
+                .btn {
+                    font-size: 10px;
+                }
+            }
+        }
+    }
+}
